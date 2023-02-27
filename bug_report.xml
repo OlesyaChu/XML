@@ -1,0 +1,35 @@
+<main>
+	<project>
+		<input>To Do List (ToDoList.apk)</input>
+	</project>
+	<bug_ID>
+		<input>1</input>
+	</bug_ID>
+	<title>
+		<input>При скролле открывшегося пункта Action menu "About" при случайном попадании пальца на имеющиеся ссылки в тексте ссылки открываются</input>
+	</title>
+	<environment>
+		<input>Redmi Note 8 Pro (Android v: 10 QP1A.190711.020)</input>
+	</environment>
+	<precondition>
+		<input>Запуск приложения To Do List</input>
+	</precondition>
+	<STR>
+		<input>1. Тап по пункту Action menu "A to Z"</input>
+	</STR>
+	<AR>
+		<input>При скролле открывшегося пункта Action menu "About" при случайном попадании пальца на имеющиеся ссылки в тексте ссылки открываются</input>
+	</AR>
+	<ER>
+		<input>При скролле открывшегося пункта Action menu "About" ссылки не открываются. Ссылки открываются при тапе на них</input>
+	</ER>
+	<Priority>
+		<input>Medium</input>
+	</Priority>
+	<Severity>
+		<input>Minor</input>
+	</Severity>
+	<Attachments>
+		<input>ссылка на баг</input>
+	</Attachments>
+</main>
